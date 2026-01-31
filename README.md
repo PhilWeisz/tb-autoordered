@@ -45,6 +45,7 @@ Example:
 1.  After installation there should pop up
     the "Sort Inbox"-Button with a green AO-Symbol in the top right corner of 
     thunderbird as seen below.
+
     ![AO Sort Inbox Button](docs/images/button.png) 
     
     If it doesn't, just customize your toolbar:
