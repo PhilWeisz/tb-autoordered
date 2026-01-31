@@ -76,7 +76,7 @@ Option B (regular user, permanent):
 Tested with Thunderbird v147.0
 
 ## Issues
-Top Level Domain suffixes like '.co.uk' are recognized as emails, if you want, participate and fix. 
+Top Level Domain suffixes like '.co.uk' are recognized as domains, if that disturbs you - feel free to participate and fix it with a pullrequest. 
 
 ## License
 MIT License
