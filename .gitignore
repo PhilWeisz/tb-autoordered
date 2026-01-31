@@ -1,0 +1,21 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains / IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# Build directories (adjust based on your language)
+dist/
+build/
+bin/
+obj/
+
+# Environment variables
+.env

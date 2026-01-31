@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "AutoOrdered",
+  "version": "1.2",
+  "description": "Automatically organizes Inbox messages into a domain hierarchy.",
+  "permissions": [
+    "accountsRead",
+    "messagesRead",
+    "messagesMove",
+    "accountsFolders"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Sort Inbox",
+    "default_label": "Sort Inbox",
+    "default_icon": "icon.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "autoordered@local",
+      "strict_min_version": "115.0"
+    }
+  }
+}
