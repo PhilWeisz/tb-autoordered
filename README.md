@@ -17,9 +17,13 @@ If you have thousands of unorganized emails:
 2.  **Review Groups**: navigate to a folder (e.g., `Inbox/autoordered/a/amazon.com`).
 3.  **Take Action**:
     *   **Unsubscribe**: Open one recent email in that folder and use the "Unsubscribe" link.
-    *   **Bulk Delete**: Since all emails from that sender are now in one isolated folder, you can right-click the folder and select **Delete** to remove thousands of emails at once, without affecting other important mail.
+    *   **Bulk Delete**: Since all emails from that sender are now in one isolated folder, you can right-click the folder and select **Delete** to remove thousands 
+        of emails at once, without affecting other important mail.
 
-    ![Example how autoordering works](docs/images/created_folders.png)
+Example:
+
+![Example how autoordering works](docs/images/created_folders.png)
+
 
 ## Features
 *   **Hierarchical Sorting**: `amazon.com` goes to `a/amazon.com`, `billing.amazon.com` goes to `a/amazon.com/billing`.
@@ -39,8 +43,11 @@ If you have thousands of unorganized emails:
 ## Usage
 
 1.  After installation there should pop up
-    the ![AO Sort Inbox Button](docs/images/button.png) in the top right corner of 
-    thunderbird. If it doesn't, just customize your toolbar:
+    the "Sort Inbox"-Button with a green AO-Symbol in the top right corner of 
+    thunderbird as seen below.
+    ![AO Sort Inbox Button](docs/images/button.png) 
+    
+    If it doesn't, just customize your toolbar:
     *   Right-click the main toolbar > **Customize...**
     *   Drag the **Sort Inbox** button (Green "AO" Icon) to your toolbar.
     *   Click **Save**.
